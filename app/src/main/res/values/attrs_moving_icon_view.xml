@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="MovingIconView">
+        <attr name="mivString" format="string" />
+        <attr name="mivDimension" format="dimension" />
+        <attr name="mivColor" format="color" />
+        <attr name="mivDrawable" format="color|reference" />
+    </declare-styleable>
+</resources>
